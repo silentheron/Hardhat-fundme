@@ -1,0 +1,15 @@
+node_modules
+artifacts
+cache
+coverage*
+gasReporterOutput.json
+package.json
+img
+coverage
+.env
+.*
+README.md
+coverage.json
+FundMe.sol
+PriceConverter.sol
+FundMe.staging.test.js
